@@ -16,7 +16,7 @@ describe('Countdown Component', () => {
     "should display button 'pause' & 'stop' when the 'start' button is clicked"
   );
   it.todo(
-    "should pauses the countdown and display 'start' button when the 'pause' button is clicked"
+    "should pauses the countdown and display 'start' button when the 'pause' button is clickeed"
   );
   it.todo(
     "should stops the countdown and display back to the beginning when the 'stop' button is clicked"
